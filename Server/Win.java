@@ -4,6 +4,7 @@
 // Refactor component structure
 // Refactor component structure
 // Refactor component structure
+// Refactor component structure
 import java.awt.*;
 import javax.swing.*;
 import java.awt.TrayIcon.MessageType;
