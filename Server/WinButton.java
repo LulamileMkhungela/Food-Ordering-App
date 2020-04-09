@@ -5,6 +5,7 @@
 // Refactor component structure
 // Refactor component structure
 // Refactor component structure
+// Refactor component structure
 import java.awt.*;
 import javax.swing.*;
 public class WinButton extends JButton
