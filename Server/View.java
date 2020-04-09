@@ -5,6 +5,7 @@
 // Refactor component structure
 // Refactor component structure
 // Refactor component structure
+// Refactor component structure
 import java.awt.*;
 import java.awt.event.*;
 import java.sql.*;
