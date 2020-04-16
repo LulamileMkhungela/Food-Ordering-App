@@ -6,6 +6,7 @@
 // Refactor component structure
 // Refactor component structure
 // Refactor component structure
+// Refactor component structure
 import javax.swing.*;
 import java.sql.*;
 import java.awt.*;
