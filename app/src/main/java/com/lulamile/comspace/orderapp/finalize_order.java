@@ -6,6 +6,7 @@
 // Refactor component structure
 // Refactor component structure
 // Refactor component structure
+// Refactor component structure
 package com.lulamile.comspace.orderapp;
 import android.app.AlertDialog;
 import android.content.DialogInterface;
